@@ -1,0 +1,16 @@
+    h1 {
+      font-family: georgia;
+    }
+    p {
+      color: white;
+      background-color: black;
+}
+    img {
+      height: 25%;
+      width: 25%;
+      position: relative;
+      left: 500px;
+    }
+    i {
+      font-size: 300%;
+    }
